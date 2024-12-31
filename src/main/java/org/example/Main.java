@@ -13,7 +13,7 @@ import java.util.Random;
 public class Main {
     public static void main(String[] args) throws Exception {
         Random rand = new Random();
-
+        /// hehehe
         int i = -1;
         String road = "--x--x--xx--x---x";
         int mickeyHP = 10;
